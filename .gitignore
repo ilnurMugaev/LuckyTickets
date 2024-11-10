@@ -1,0 +1,9 @@
+# Playground
+timeline.xctimeline
+playground.xcplayground
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj/*
